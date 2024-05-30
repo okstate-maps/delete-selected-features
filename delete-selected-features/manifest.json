@@ -1,0 +1,19 @@
+{
+  "name": "delete-selected-features",
+  "label": "Delete Selected Features",
+  "type": "widget",
+  "version": "0.0.1",
+  "exbVersion": "0.0.1",
+  "author": "kdyke",
+  "description": "Allows deletion of selected features of a feature layer.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 200
+  }
+}
